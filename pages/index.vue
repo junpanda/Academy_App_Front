@@ -7,7 +7,7 @@
             nuxt
             to="/login"
           >
-            로그인
+            로그인 dd
           </v-btn>
         
         
