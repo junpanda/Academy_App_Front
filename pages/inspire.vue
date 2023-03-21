@@ -7,10 +7,10 @@
         class="mb-5"
       >
       <blockquote class="blockquote">
-        &#8220;First, solve the problem. Then, write the code.&#8221;
+       학원 현황
         <footer>
           <small>
-            <em>&mdash;John Johnson</em>
+            <em>&mdash;권세희</em>
           </small>
         </footer>
       </blockquote>
